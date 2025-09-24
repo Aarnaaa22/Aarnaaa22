@@ -1,0 +1,21 @@
+name: Snake Simple
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: Aarnaaa22
+          outputs: dist/snake.svg
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output

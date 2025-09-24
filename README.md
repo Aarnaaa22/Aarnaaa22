@@ -9,28 +9,6 @@
 
 </div>
 
----
-
-## 🎮 **INTERACTIVE GAMES ZONE** 🎮
-
-<div align="center">
-
-### 🐍 **Play Snake Right Here!**
-[![Snake Game](https://github.com/Aarnaaa22/snake-game/blob/main/snake-banner.svg)](https://aarnaaa22.github.io/snake-game)
-
-### 🧠 **Memory Challenge**  
-[![Memory Game](https://img.shields.io/badge/🧠%20Memory%20Game-PLAY%20NOW-ff006e?style=for-the-badge&logo=brain&logoColor=white)](https://aarnaaa22.github.io/memory-game)
-
-### ⚡ **Power Clicker**
-[![Clicker Game](https://img.shields.io/badge/⚡%20Power%20Clicker-CLICK%20ME-06ffa5?style=for-the-badge&logo=lightning&logoColor=black)](https://aarnaaa22.github.io/clicker-game)
-
-### ⌨️ **Type Racer Challenge**
-[![Typing Game](https://img.shields.io/badge/⌨️%20Type%20Racer-START%20TYPING-3a86ff?style=for-the-badge&logo=keyboard&logoColor=white)](https://aarnaaa22.github.io/typing-game)
-
-</div>
-
----
-
 ## 🚀 **About Me - RPG Style**
 
 ```python

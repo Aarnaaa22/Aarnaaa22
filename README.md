@@ -51,7 +51,7 @@ me.say_hi()
 
 <div align="center">
   
-![AARNA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![AARNA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarnaaa22E&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarnaaa22&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -103,7 +103,7 @@ me.say_hi()
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Aarnaaa22&color=blueviolet&style=for-the-badge)
 
 </div>
 

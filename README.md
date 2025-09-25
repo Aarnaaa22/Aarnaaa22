@@ -1,90 +1,77 @@
-# Hi there, I'm AARNA! 👋
+# Hello, I'm AARNA! 👋
 
 <div align="center">
 
-# 🎮 𝐀𝐀𝐑𝐍𝐀 🎮
-### 🚀 Gaming Developer & Code Wizard ⚡
+# 𝐀𝐀𝐑𝐍𝐀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF006E&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🎮+Welcome+to+my+Epic+GitHub!+🎮;](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Creative+Problem+Solver+%E2%9C%A8;Always+Learning+%26+Growing+%F0%9F%8C%B8)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 **About Me - RPG Style**
+---
+
+## 💫 About Me
 
 ```python
-class AarnaTheCodeWizard:
+class Developer:
     def __init__(self):
         self.name = "Aarna"
-        self.title = "Code Wizard & Game Master"
-        self.level = 25  # Age or experience level!
-        self.hp = "☕ Coffee Powered"
-        self.mana = "🧠 Infinite Curiosity"
+        self.username = "Aarnaaa22"
+        self.role = "Full-Stack Developer & Creative Coder"
+        self.location = "India 🇮🇳"
+        self.vibe = "Professional with a creative spark ✨"
         
-        # Skills Tree
         self.skills = {
-            "🎮 Game Development": 85,
-            "💻 Web Development": 90,
-            "🐍 Python Magic": 80,
-            "⚡ JavaScript Wizardry": 85,
-            "🎨 UI/UX Design": 75,
-            "🤖 AI/ML Experiments": 70
+            "languages": ["Python 🐍", "JavaScript ⚡", "HTML5 🌐", "CSS3 🎨"],
+            "frameworks": ["React ⚛️", "Node.js 🚀", "Express 🔧"],
+            "design_tools": ["Figma 🎨", "Adobe Creative Suite 💫"],
+            "other_tools": ["Git 📦", "VS Code 💻", "MongoDB 🗄️"]
         }
         
-        # Current Quests
-        self.active_quests = [
-            "🎯 Master React & Node.js",
-            "🎮 Build epic browser games", 
-            "🤖 Explore AI possibilities",
-            "🌟 Contribute to open source"
+        self.passions = [
+            "Creating beautiful, functional websites",
+            "Designing intuitive user experiences", 
+            "Turning ideas into digital reality",
+            "Learning cutting-edge technologies"
         ]
     
-    def cast_spell(self, problem):
-        return f"✨ *waves hands* ✨ {problem} = SOLVED!"
-    
-    def level_up(self):
-        print("🎉 LEVEL UP! New skills unlocked!")
-        return "Ready for bigger challenges! 🚀"
+    def current_mood(self):
+        return "Ready to build something amazing! 🌟"
 
-# Initialize the wizard
-aarna = AarnaTheCodeWizard()
-print(aarna.cast_spell("Any coding challenge"))
+me = Developer()
 ```
 
 ---
 
-## 🛠️ **My Coding Arsenal**
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-FF69B4?style=for-the-badge&logo=python&logoColor=white&labelColor=000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000)
+![HTML5](https://img.shields.io/badge/-HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white&labelColor=000)
+![CSS3](https://img.shields.io/badge/-CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white&labelColor=000)
+![React](https://img.shields.io/badge/-React-FF69B4?style=for-the-badge&logo=react&logoColor=white&labelColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-FF1493?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000)
 
-### **Game Development**
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Phaser](https://img.shields.io/badge/-Phaser-9B59B6?style=for-the-badge&logo=phaser&logoColor=white)
-
-### **Tools & More**
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### Design & Development Tools
+![Figma](https://img.shields.io/badge/-Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white&labelColor=000)
+![VS Code](https://img.shields.io/badge/-VS%20Code-FF1493?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000)
+![Git](https://img.shields.io/badge/-Git-FF69B4?style=for-the-badge&logo=git&logoColor=white&labelColor=000)
+![MongoDB](https://img.shields.io/badge/-MongoDB-FF1493?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000)
 
 </div>
 
 ---
 
-## 📊 **Live Battle Stats**
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aarnaaa22&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=🎮%20Aarna's%20Coding%20Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aarnaaa22&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=✨%20Aarna's%20Coding%20Journey" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarnaaa22&layout=compact&theme=radical&hide_border=true&custom_title=🔥%20Language%20Mastery" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarnaaa22&layout=compact&theme=radical&hide_border=true&custom_title=💖%20Favorite%20Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarnaaa22&theme=radical&hide_border=true" />
 
@@ -92,90 +79,113 @@ print(aarna.cast_spell("Any coding challenge"))
 
 ---
 
-## 🏆 **Achievement Unlocked**
+## 🎪 Interactive Skill Claw Machine
 
 <div align="center">
 
-| 🏅 Achievement | 📈 Progress | 🎯 Goal |
-|:---:|:---:|:---:|
-| **Code Commits** | ![50%](https://progress-bar.dev/65/?scale=100&title=Daily&width=120&color=ff006e) | 100 commits |
-| **GitHub Stars** | ![30%](https://progress-bar.dev/30/?scale=100&title=Stars&width=120&color=06ffa5) | 50 stars |
-| **Projects Built** | ![80%](https://progress-bar.dev/80/?scale=100&title=Projects&width=120&color=3a86ff) | 20 projects |
-| **Coffee Consumed** | ![100%](https://progress-bar.dev/100/?scale=100&title=☕&width=120&color=8338ec) | ∞ cups |
+```
+                🎪 ✨ AARNA'S SKILL ARCADE ✨ 🎪
+           ╭─────────────────────────────────────╮
+           │          🌟 GRAB A SKILL! 🌟         │
+           │  ┌─────────────────────────────────┐ │
+           │  │  🐍     ⚛️     🎨     💻     🔧  │ │
+           │  │ Python  React   UI    Code    Git │ │
+           │  │                                 │ │
+           │  │  🌐     ⚡     📱     💫     ☁️  │ │
+           │  │ HTML    JS   Mobile  Design  Cloud│ │
+           │  │                                 │ │
+           │  │  💾     🎯     🚀     💡     🔍  │ │
+           │  │ Database Test  Deploy Ideas  Debug│ │
+           │  │                                 │ │
+           │  │  🌸     ✨     💖     🦋     🌈  │ │
+           │  │Creativity UX   Passion Growth  Joy │
+           │  └─────────────────────────────────┘ │
+           │           🕹️  CONTROLS  🕹️           │
+           │      ⬅️ Move  |  ⬇️ Grab  |  ➡️ Move      │
+           │                                     │
+           │      💫 Current Vibe: Creating Magic │
+           │      🎯 Skills Mastered: 12+        │
+           │      🌟 Learning Goal: Never Stop!   │
+           ╰─────────────────────────────────────╯
 
-</div>
+🎁 Available Skills: Python, React, JavaScript, HTML/CSS, Node.js, 
+UI/UX Design, Git, Database Management, Creative Problem Solving,
+Mobile Development, Cloud Services, Testing, and more! ✨
+```
 
-
-## 🎮 **Gaming Portfolio**
-
-### 🐍 **Epic Snake Evolution**
-- **Tech Stack:** HTML5 Canvas, JavaScript, CSS3
-- **Features:** Power-ups, multiple levels, neon effects
-- **High Score:** 🏆 Beat this challenge!
-
-### 🧠 **Memory Matrix**
-- **Tech Stack:** React, CSS Animations
-- **Features:** Multiple difficulty modes, leaderboard
-- **Challenge:** Can you solve it in under 10 moves?
-
-### ⚡ **Clicker Dynasty**
-- **Tech Stack:** Vanilla JS, Local Storage
-- **Features:** Upgrades, achievements, prestige system
-- **Goal:** Reach level 100!
-
----
-
-## 🌟 **Connect & Play Together**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/🤝%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/aarna-chopdekar-98b095373/))
-[![Instagram](https://img.shields.io/badge/📸%20Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/your-instagram](https://www.instagram.com/aarnachopdekar/?igsh=MjJkc3Ixb3hvNXRp&utm_source=qr#))
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://your-portfolio.com](https://aarnaaa22.github.io/Portfolio-Website/))
-
-### 💬 **Want to collaborate on a game?**
-[![Email](https://img.shields.io/badge/📧%20Email-Let's%20Build!-ff006e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarnachopdekar@gmail.com)
+**🎮 Play Style:** Grab the skills that spark your curiosity!  
+**💫 Special Bonus:** Each skill comes with creativity and passion  
+**🏆 Achievement Unlocked:** Continuous learner with style!
 
 </div>
 
 ---
 
-## 🎊 **Fun Facts & Easter Eggs**
+## 🌟 What I'm Up To
+
+- 🔮 **Currently Building:** Responsive web applications with beautiful UIs
+- 🌱 **Learning Journey:** Advanced React patterns, Node.js, and design systems
+- 💫 **Dream Projects:** Apps that make people's lives easier and more delightful  
+- 👯‍♀️ **Collaboration:** Open to working on innovative, meaningful projects
+- 💬 **Let's Chat About:** Web development, design, tech trends, or creative ideas!
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Aarnaaa22&repo=Portfolio-Website&theme=radical&hide_border=true&title_color=FF69B4&icon_color=FF1493)](https://github.com/Aarnaaa22/Portfolio-Website)
+
+</div>
+
+---
+
+## 💝 Let's Connect & Create
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Let's%20Network-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/aarna-chopdekar-98b095373/)
+[![Instagram](https://img.shields.io/badge/📸%20Instagram-Behind%20the%20Code-FF1493?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000)](https://www.instagram.com/aarnachopdekar/?igsh=MjJkc3Ixb3hvNXRp&utm_source=qr)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-See%20My%20Work-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000)](https://aarnaaa22.github.io/Portfolio-Website/)
+
+### 💌 **Ready to collaborate?** Let's build something beautiful together!
+
+</div>
+
+---
+
+## 🎉 Fun Facts & Achievements
 
 <details>
-<summary>🎮 <strong>Click here for secret achievements!</strong></summary>
+<summary>✨ <strong>Click to discover more about me!</strong></summary>
 
-### 🏆 **Hidden Achievements Unlocked:**
+### 🏆 **Personal Achievements**
+- 🌟 Successfully balanced technical skills with creative design thinking  
+- 💫 Completed multiple full-stack projects from concept to deployment
+- 🎨 Developed an eye for user-friendly interfaces and smooth user experiences
+- 📚 Committed to learning something new in tech every week
 
-- ☕ **Coffee Addict**: Coded for 48 hours straight
-- 🌙 **Night Owl**: Most commits happen after midnight  
--🥷 RNA Mode: Silent but deadly with code and comebacks
-- 🎯 **Perfectionist**: Refactored code 5+ times before committing
-- 🌌 Galaxy Brain Aarna: Writes code and websites like they’re constellations
-- 🎨 **Design Ninja**: Made developers cry with beautiful UIs
+### 💖 **What Drives Me**
+- **Philosophy:** "Good code should be functional AND beautiful"
+- **Inspiration:** Creating digital experiences that genuinely help people
+- **Goal:** Becoming a well-rounded developer who bridges tech and design
+- **Motto:** "Code with purpose, design with heart" 💝
 
-### 🎲 **Random Dev Quote Generator:**
-*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* - Martin Fowler
-
-### 🎮 **Gaming Stats:**
-- **Favorite Game Genre**: Puzzle & Strategy
-- **All-time Favorite**: Portal series (obviously!)
-- **Currently Playing**: Building my own games!
+### 🌸 **When I'm Not Coding**
+- 🎨 Exploring new design trends and UI inspiration
+- 📚 Reading about emerging technologies and best practices  
+- 🌱 Working on personal growth and skill development
+- ☕ Enjoying a good cup of coffee while planning the next project
 
 </details>
 
 ---
 
-## 📈 **Profile Power Level**
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aarnaaa22&color=ff006e&style=for-the-badge&label=Profile+Power+Level)
+![Profile Views](https://komarev.com/ghpvc/?username=Aarnaaa22&color=FF69B4&style=for-the-badge&label=Profile%20Visitors&labelColor=000)
 
-### ⚡ **Current Status:** *Ready for Epic Collaborations!* ⚡
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing!&fontSize=24&fontColor=white&animation=twinkling" />
+### 🌟 **Thanks for stopping by! Let's create something amazing together!** ✨
 
 </div>

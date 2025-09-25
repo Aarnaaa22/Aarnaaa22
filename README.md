@@ -5,7 +5,7 @@
 # 🎮 𝐀𝐀𝐑𝐍𝐀 🎮
 ### 🚀 Gaming Developer & Code Wizard ⚡
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF006E&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🎮+Welcome+to+my+Epic+GitHub!+🎮;⚡+I+turn+coffee+into+code+⚡;🔥+Building+awesome+games+%26+apps+🔥;🚀+Always+ready+for+new+challenges!+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF006E&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🎮+Welcome+to+my+Epic+GitHub!+🎮;](https://git.io/typing-svg)
 
 </div>
 

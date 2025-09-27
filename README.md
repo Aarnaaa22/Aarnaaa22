@@ -1,10 +1,30 @@
-# Hello, I'm AARNA! 👋
+# Hello, I'm AARNA! 💜 💎 💫
 
 <div align="center">
 
 # 𝐀𝐀𝐑𝐍𝐀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%92%A1;Creative+Coder+%F0%9F%92%A8;Always+Learning+New+Things+%F0%9F%92%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Creative+Problem+Solver+%E2%9C%A8;Always+Learning+%26+Growing+%F0%9F%8C%B8)](https://git.io/typing-svg)
+
+</div>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=150&pause=200&color=FF69B4&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%F0%9F%8C%B8+%F0%9F%92%96+%F0%9F%A6%8B+%F0%9F%8C%B8+%F0%9F%92%96+%F0%9F%A6%8B+%F0%9F%8C%B8+%F0%9F%92%96+%F0%9F%A6%8B+%F0%9F%8C%B8+%F0%9F%92%96+%F0%9F%A6%8B+%F0%9F%8C%B8+%F0%9F%92%96+%F0%9F%A6%8B+%F0%9F%8C%B8+%F0%9F%92%96;+%F0%9F%8E%80+%E2%9C%A8+%F0%9F%A6%84+%F0%9F%8C%B7+%F0%9F%92%9C+%F0%9F%8C%BA+%F0%9F%92%AB+%F0%9F%8C%B8+%F0%9F%A6%8B+%F0%9F%8C%B9+%F0%9F%92%96+%F0%9F%8C%BB+%F0%9F%8E%80+%F0%9F%A6%84+%F0%9F%8C%B7;%F0%9F%92%9C+%F0%9F%8C%BA+%F0%9F%92%AB+%F0%9F%8C%B8+%F0%9F%A6%8B+%F0%9F%8C%B9+%F0%9F%92%96+%F0%9F%8C%BB+%F0%9F%8E%80+%F0%9F%A6%84+%F0%9F%8C%B7+%F0%9F%92%9C+%F0%9F%8C%BA+%F0%9F%92%AB+%F0%9F%8C%B8;+%F0%9F%A6%8B+%E2%9C%A8+%F0%9F%8C%B9+%F0%9F%92%96+%F0%9F%8C%BB+%F0%9F%8E%80+%F0%9F%A6%84+%F0%9F%8C%B7+%F0%9F%92%9C+%F0%9F%8C%BA+%F0%9F%92%AB+%F0%9F%8C%B8+%F0%9F%A6%8B+%F0%9F%8C%B9+%F0%9F%92%96;%F0%9F%8C%B8+%F0%9F%92%96+%F0%9F%A6%8B+%F0%9F%8C%B8+%F0%9F%92%96+%F0%9F%A6%8B+%F0%9F%8C%B8+%F0%9F%92%96+%F0%9F%A6%8B+%F0%9F%8C%B8+%F0%9F%92%96+%F0%9F%A6%8B+%F0%9F%8C%B8+%F0%9F%92%96+%F0%9F%A6%8B+%F0%9F%8C%B8+%F0%9F%92%96" />
+</div>
+## 🎯 Activity Graph
+
+<div align="center">
+
+[![Aarna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aarnaaa22&theme=dracula&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFB6C1&area=true&hide_border=true)](https://github.com/Aarnaaa22)
+
+</div>
+
+---
+
+## 🏆 Trophy Case
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aarnaaa22&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7)](https://github.com/Aarnaaa22)
 
 </div>
 
@@ -77,6 +97,8 @@ me = Developer()
 
 </div>
 
+---
+
 ## 🎪 Interactive Skill Claw Machine
 
 <div align="center">
@@ -143,8 +165,8 @@ Mobile Development, Cloud Services, Testing, and more! ✨
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Let's%20Network-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/aarna-chopdekar-98b5141b0/)
-[![Instagram](https://img.shields.io/badge/📸%20Instagram-Behind%20the%20Code-FF1493?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000)](https://www.instagram.com/aarnachopdekar/)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Let's%20Network-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/aarna-chopdekar-98b095373/)
+[![Instagram](https://img.shields.io/badge/📸%20Instagram-Behind%20the%20Code-FF1493?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000)](https://www.instagram.com/aarnachopdekar/?igsh=MjJkc3Ixb3hvNXRp&utm_source=qr)
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-See%20My%20Work-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000)](https://aarnaaa22.github.io/Portfolio-Website/)
 
 ### 💌 **Ready to collaborate?** Let's build something beautiful together!

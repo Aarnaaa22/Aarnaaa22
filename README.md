@@ -4,7 +4,7 @@
 
 # 𝐀𝐀𝐑𝐍𝐀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Creative+Problem+Solver+%E2%9C%A8;Always+Learning+%26+Growing+%F0%9F%8C%B8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%92%A1;Creative+Coder+%F0%9F%92%A8;Always+Learning+New+Things+%F0%9F%92%95)](https://git.io/typing-svg)
 
 </div>
 
@@ -79,6 +79,13 @@ me = Developer()
 
 ---
 
+<!-- GitHub Contribution Snake Animation -->
+<div align="center">
+  <img src="https://github.com/Aarnaaa22/Aarnaaa22/blob/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+</div>
+
+---
+
 ## 🎪 Interactive Skill Claw Machine
 
 <div align="center">
@@ -145,8 +152,8 @@ Mobile Development, Cloud Services, Testing, and more! ✨
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Let's%20Network-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/aarna-chopdekar-98b095373/)
-[![Instagram](https://img.shields.io/badge/📸%20Instagram-Behind%20the%20Code-FF1493?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000)](https://www.instagram.com/aarnachopdekar/?igsh=MjJkc3Ixb3hvNXRp&utm_source=qr)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Let's%20Network-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/aarna-chopdekar-98b5141b0/)
+[![Instagram](https://img.shields.io/badge/📸%20Instagram-Behind%20the%20Code-FF1493?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000)](https://www.instagram.com/aarnachopdekar/)
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-See%20My%20Work-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000)](https://aarnaaa22.github.io/Portfolio-Website/)
 
 ### 💌 **Ready to collaborate?** Let's build something beautiful together!

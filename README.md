@@ -77,15 +77,6 @@ me = Developer()
 
 </div>
 
----
-
-<!-- GitHub Contribution Snake Animation -->
-<div align="center">
-  <img src="https://github.com/Aarnaaa22/Aarnaaa22/blob/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
-</div>
-
----
-
 ## 🎪 Interactive Skill Claw Machine
 
 <div align="center">

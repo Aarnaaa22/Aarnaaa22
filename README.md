@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1EC,100:D9AFD9&height=200&section=header&text=Hi,%20I'm%20Aarna%20🌸&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=full-stack%20developer%20%E2%9C%A8%20fairycore%20dreamer&descAlignY=58&descSize=18" />
+<img src="assets/banner.svg" width="100%" alt="Aarna banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=560&lines=full-stack+developer+%F0%9F%8E%80;UI%2FUX+dreamer+%F0%9F%A6%8B;forever+in+my+fairycore+era+%F0%9F%8D%84;coding+with+a+little+sparkle+%E2%9C%A8" />
-
-🌷 ⋆｡‧˚ʚ🦋ɞ˚‧｡⋆ 🍄 ⋆｡‧˚ʚ💗ɞ˚‧｡⋆ 🌸
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=B85C8E&center=true&vCenter=true&width=520&lines=UI%2FUX+dreamer+%F0%9F%A6%8B;forever+in+my+fairycore+era+%F0%9F%8D%84;coding+with+a+little+sparkle+%E2%9C%A8" />
 
 </div>
 
-<br>
+<img src="assets/divider.svg" width="100%" />
 
 ## 🌸 about me
 
@@ -38,11 +36,7 @@ at a time ✨
 </tr>
 </table>
 
-<div align="center">
-
-·˚ ༘ ⋆｡˚ 🌸 ⋆｡˚ ༘‧₊˚ 🦋 ˚₊‧༘ ⋆｡˚ 🌸 ˚｡⋆ ༘ ·˚
-
-</div>
+<img src="assets/divider.svg" width="100%" />
 
 ## 🎀 my sparkly toolkit
 
@@ -64,11 +58,7 @@ at a time ✨
 
 </div>
 
-<div align="center">
-
-·˚ ༘ ⋆｡˚ 🍄 ⋆｡˚ ༘‧₊˚ 🌷 ˚₊‧༘ ⋆｡˚ 🍄 ˚｡⋆ ༘ ·˚
-
-</div>
+<img src="assets/divider.svg" width="100%" />
 
 ## 💗 github garden
 
@@ -81,11 +71,7 @@ at a time ✨
 
 </div>
 
-<div align="center">
-
-·˚ ༘ ⋆｡˚ 🌸 ⋆｡˚ ༘‧₊˚ 🦋 ˚₊‧༘ ⋆｡˚ 🌸 ˚｡⋆ ༘ ·˚
-
-</div>
+<img src="assets/divider.svg" width="100%" />
 
 ## 🏆 little milestones
 
@@ -100,11 +86,7 @@ at a time ✨
 
 </div>
 
-<div align="center">
-
-·˚ ༘ ⋆｡˚ 🍄 ⋆｡˚ ༘‧₊˚ 🌷 ˚₊‧༘ ⋆｡˚ 🍄 ˚｡⋆ ༘ ·˚
-
-</div>
+<img src="assets/divider.svg" width="100%" />
 
 ## 🌟 projects i love
 
@@ -137,11 +119,7 @@ at a time ✨
 </table>
 </div>
 
-<div align="center">
-
-·˚ ༘ ⋆｡˚ 🌸 ⋆｡˚ ༘‧₊˚ 🦋 ˚₊‧༘ ⋆｡˚ 🌸 ˚｡⋆ ༘ ·˚
-
-</div>
+<img src="assets/divider.svg" width="100%" />
 
 ## 🍭 beyond the code
 
@@ -195,11 +173,16 @@ morning coffee → lo-fi playlist → late night coding bursts → kaju katli br
 
 </details>
 
+<img src="assets/divider.svg" width="100%" />
+
+## 🌷 my little garden
+
 <div align="center">
-
-·˚ ༘ ⋆｡˚ 🍄 ⋆｡˚ ༘‧₊˚ 🌷 ˚₊‧༘ ⋆｡˚ 🍄 ˚｡⋆ ༘ ·˚
-
+<img src="assets/garden.svg" width="100%" alt="a fairycore garden with flowers and fireflies" />
+<sub>🦋 grown one commit at a time</sub>
 </div>
+
+<img src="assets/divider.svg" width="100%" />
 
 ## 💌 let's be friends
 
@@ -213,4 +196,6 @@ morning coffee → lo-fi playlist → late night coding bursts → kaju katli br
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9AFD9,100:FFD1EC&height=150&section=footer&text=thanks%20for%20visiting!%20🌷&fontSize=28&fontColor=ffffff&animation=twinkling" />
+<div align="center">
+<img src="assets/footer.svg" width="100%" alt="thanks for visiting" />
+</div>

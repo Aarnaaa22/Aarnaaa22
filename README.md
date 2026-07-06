@@ -95,32 +95,49 @@ at a time ✨
 <tr>
 <td align="center" width="50%">
 
-**🍄 portfolio website**
+<div align="center">
 
-<a href="https://github.com/Aarnaaa22/Portfolio-Website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aarnaaa22&repo=Portfolio-Website&theme=transparent&hide_border=true&title_color=FF6FB5&icon_color=B85C8E&text_color=B85C8E" />
+<table>
+<tr>
+
+<!-- 🍄 Portfolio -->
+<td align="center" width="50%">
+
+🍄 portfolio website  
+
+<a href="https://aarnaaa22.github.io/Portfolio-Website/" target="_blank">
+  <img src="assets/fairy.jpg" width="300px" />
 </a>
+
+<br><br>
 
 [![live demo](https://img.shields.io/badge/🌐_live_demo-FFC4E1?style=flat-square&labelColor=FFC4E1&logoColor=8B3A62)](https://aarnaaa22.github.io/Portfolio-Website/)
 
 </td>
+
+<!-- 🦋 Repos -->
 <td align="center" width="50%">
 
-**🦋 all my repos**
+🦋 all my repos  
 
-<a href="https://github.com/Aarnaaa22">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aarnaaa22&repo=Aarnaaa22&theme=transparent&hide_border=true&title_color=FF6FB5&icon_color=B85C8E&text_color=B85C8E" />
+<a href="https://github.com/Aarnaaa22" target="_blank">
+  <img src="assets/image.jpg" width="300px" />
 </a>
+
+<br><br>
 
 [![view profile](https://img.shields.io/badge/📂_view_profile-F3AED2?style=flat-square&labelColor=F3AED2&logoColor=fff)](https://github.com/Aarnaaa22)
 
 </td>
+
 </tr>
 </table>
+
 </div>
 
-<img src="assets/divider.svg" width="100%" />
+<br>
 
+<img src="assets/divider.svg" width="100%" />
 ## 🍭 beyond the code
 
 <div align="center">
@@ -136,7 +153,7 @@ Paris, France
 <td align="center" width="33%">
 
 **🍽️ favorite treats**  
-🍗 chicken · 🍬 kaju katli · 🥭 lychee
+🍗 chicken · 🍰 strawberry chessecake · 🥭 lychee
 
 </td>
 <td align="center" width="33%">

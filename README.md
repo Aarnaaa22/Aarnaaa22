@@ -60,15 +60,10 @@ at a time ✨
 
 <img src="assets/divider.svg" width="100%" />
 
-## 💗 github garden
+## 🎓 a little about me
 
 <div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aarnaaa22&show_icons=true&theme=transparent&hide_border=true&count_private=true&icon_color=FF6FB5&title_color=FF6FB5&text_color=B85C8E" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aarnaaa22&theme=transparent&hide_border=true&stroke=FF6FB5&ring=FF6FB5&fire=F3AED2&currStreakLabel=B85C8E&background=00000000" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarnaaa22&layout=compact&theme=transparent&hide_border=true&title_color=FF6FB5&text_color=B85C8E" />
-
+<img src="assets/fun-note.svg" width="380" alt="Computer Engineering Student" />
 </div>
 
 <img src="assets/divider.svg" width="100%" />
